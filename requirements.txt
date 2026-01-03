@@ -1,7 +1,1 @@
-pip install aiogram>=3.22.0
-pip install aiohttp>=3.12.15
-pip install flask>=3.1.2
-pip install psutil>=7.1.1
-pip install pytelegrambotapi>=4.29.1
-pip install python-dotenv>=1.1.1
-pip install requests>=2.32.5
+pip install aiogram>=3.22.0 aiohttp>=3.12.15 flask>=3.1.2 psutil>=7.1.1 pytelegrambotapi>=4.29.1 python-dotenv>=1.1.1 requests>=2.32.5
