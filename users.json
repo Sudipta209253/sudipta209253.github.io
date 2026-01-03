@@ -1,0 +1,19 @@
+{
+  "sudipta2007": {
+    "password": "4a977c85a07dd38fa27357b7000384010a996d9be435e092549b4375327da305",
+    "created_at": "2026-01-02T21:55:48.139394",
+    "last_login": "2026-01-02T21:55:52.973727",
+    "theme": "premium",
+    "is_admin": true,
+    "can_create_users": true
+  },
+  "OLFFH4X": {
+    "password": "db634b97a4bdcac981c46f8149d2f09b5775c7bc68b09bcfdac40cda740dcae7",
+    "created_at": "2026-01-02T21:57:25.322594",
+    "last_login": "2026-01-02T21:57:40.388138",
+    "theme": "blue",
+    "is_admin": false,
+    "created_by_admin": true,
+    "created_by": "sudipta2007"
+  }
+}
